@@ -1,13 +1,13 @@
-GET http://localhost:3002/players/
+GET http://localhost:3004/players
 
 ###
-POST http://localhost:3002/players/
+POST http://localhost:3004/players
 
 ###
-GET http://localhost:3002/players/21
+GET http://localhost:3004/players/1
 
 ###
-PUT http://localhost:3002/players/24
+PUT http://localhost:3004/players/24
 
 ###
-DELETE http://localhost:3002/players/24
+DELETE http://localhost:3004/players/24
